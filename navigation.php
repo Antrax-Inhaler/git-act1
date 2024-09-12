@@ -6,6 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <header>
+        <div>Home</div>
+        <div>About</div>
+        <div>Settings</div>
+    </header>
 </body>
 </html>
